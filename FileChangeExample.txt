@@ -1,6 +1,6 @@
 This is an example of what a changed file on Fork looks like.
 
- afforest
+
 establish a forest on previously unforested land
  aftermath
 the consequences of an event, especially a catastrophic one
